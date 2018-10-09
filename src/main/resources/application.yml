@@ -7,5 +7,3 @@ spring:
         - localhost:9092
     template:
       default-topic: custom-topic
-
-server.port: 8085
